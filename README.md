@@ -1,5 +1,4 @@
-# Real-Time-Intelligent-Traffic-Monitoring-and-Control-System
-# Intelligent Traffic Monitoring and Control System 🚦👥�🚗
+# Real-Time-Intelligent-Traffic-Monitoring-and-Control-System 🚦👥�🚗
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8-green)](https://opencv.org/)
