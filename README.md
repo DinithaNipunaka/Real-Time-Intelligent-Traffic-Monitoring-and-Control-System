@@ -42,6 +42,12 @@ pip install ultralytics opencv-python pyserial
 # Download pretrained YOLOv8n model (auto-downloaded if missing)
 wget https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8n.pt 
 ```
+## Run the Project:
+pip install notebook
+jupyter notebook
+pip install pyserial
+pip install scikit-learn
+
 ## Keyboard Controls:
 - q: Quit system
 - d: Toggle detection on/off
